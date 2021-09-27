@@ -1,0 +1,106 @@
+/* style sheet for The Day After Tomorrow */
+
+body {
+  background: #84E1FF;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #000000;
+}
+
+
+h1 {
+font-family: Rubik, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 62px;
+text-align: center;
+letter-spacing: -0.02em;
+line-height: 1;
+}
+
+p {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+h2 {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+h3 {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+
+}
+
+ul {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+  wisth: 1000px;
+}
+
+.img-header {
+  width: 1440px;
+  height: 587px;
+  left: 0px;
+  top: 240px;
+  background-image: url(the-day-after-tomorrow);
+}
+
+.img-1 {
+  width: 710px;
+  height: 465px;
+  left: 370px;
+  top: 1194px;
+  border: 16px solid #FFFFFF;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 15px 12px rgba(0, 0, 0, 0.5));
+}
+
+.img-2 {
+  width: 710px;
+  height: 465px;
+  left: 370px;
+  top: 1964px;
+  border: 16px solid #FFFFFF;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 15px 12px rgba(0, 0, 0, 0.5));
+}
+
+.img-3 {
+  width: 710px;
+  height: 505px;
+  left: 370px;
+  top: 2735px;
+  border: 16px solid #FFFFFF;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 15px 12px rgba(0, 0, 0, 0.5));
+}
+
+
+.img-header, .img-1, .img-2, .img-3 {
+  display: block;
+  margin: 1px auto;
+}
